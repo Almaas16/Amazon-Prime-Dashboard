@@ -9,7 +9,6 @@ The Amazon Prime Dashboard is a visually engaging and analytical Power BI report
 4. The Dashboard was designed using the following tools and technologies:-
    • Power BI Desktop - Main data visualization platform used for Dashboards/reports creation.
    • Power Query Editor - Cleaning and transformation tool used for reshaping and preparing the data.
-   • DAX (Data Analysis Expressions) - Used for calculated measures, dynamic visuals and conditional logic.
    • Data Modelling - Relationships established among tables (Genres, Ratings and Countries).
    • File Format - .pbix for development and .png for dashboard previews.
 
