@@ -28,6 +28,6 @@ The Global OTT industry generates billions in revenues, yet many users are not a
     Analyzing content consumption patterns (e.g., most-watched shows, genres, or devices), the dashboard informs content 
     acquisition and production decisions, ensuring investments align with member preferences.
 
-6.  [https://github.com/Almaas16/Amazon-Prime-Dashboard/blob/main/Amazon%20Prime%20Project.png](https://github.com/Almaas16/Amazon-Prime-Dashboard/blob/main/Amazon%20Prime%20Project.png)
+6.  [https://github.com/Almaas16/Amazon-Prime-Dashboard/blob/main/Amazon%20Prime%20Project.png]
    
   
