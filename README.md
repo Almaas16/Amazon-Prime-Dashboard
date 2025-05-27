@@ -1,9 +1,13 @@
 # Amazon-Prime-Dashboard
 1. Amazon Prime Analytics:- Global Amazon Prime Insights Dashboard
-A dynamic, interactive Data Visualisation interface built to explore Amazon Prime data focussing on regional comparisons of Movies and TV-Shows.
+   A dynamic, interactive Data Visualisation interface built to explore Amazon Prime data focussing on regional 
+   comparisons of Movies and TV-Shows.
 
 2. Description:-
-The Amazon Prime Dashboard is a visually engaging and analytical Power BI report which allows users to explore various aspects of Prime Video’s content library, such as the most common genres, year-wise content growth, and the distribution of content by type and rating. These insights help in understanding viewer behavior, identifying gaps in content strategy, and making data-driven decisions for future content acquisition and production planning.
+   The Amazon Prime Dashboard is a visually engaging and analytical Power BI report which allows users to explore various 
+   aspects of Prime Video’s content library, such as the most common genres, year-wise content growth, and the 
+   distribution of content by type and rating. These insights help in understanding viewer behavior, identifying gaps in 
+   content strategy, and making data-driven decisions for future content acquisition and production planning.
 
   
 4. The Dashboard was designed using the following tools and technologies:-
@@ -16,14 +20,17 @@ The Amazon Prime Dashboard is a visually engaging and analytical Power BI report
 
 6. Features/Highlights:-
     • Business Problem
-    The Global OTT industry generates billions in revenues, yet many users are not able to decide which platform to choose, 
+    The Global OTT industry generates billions in revenues, yet many users are not able to decide which platform to 
+    choose, 
     for best viewing experience.
 
-    • Goal of dashboard is to provide a comprehensive, real-time visualization of key performance metrics and user insights 
+    • Goal of dashboard is to provide a comprehensive, real-time visualization of key performance metrics and user 
+    insights 
     for the Amazon Prime subscription service
 
     • Business impact and insights 
-    The dashboard consolidates critical metrics (e.g. churn rates, content consumption patterns) into a single, interactive 
+    The dashboard consolidates critical metrics (e.g. churn rates, content consumption patterns) into a single, 
+    interactive 
     interface. This enables stakeholders to make informed, data-driven decisions quickly, such as adjusting marketing 
     strategies or prioritizing content investments.
     Analyzing content consumption patterns (e.g., most-watched shows, genres, or devices), the dashboard informs content 
