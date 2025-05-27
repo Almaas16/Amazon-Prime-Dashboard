@@ -15,15 +15,19 @@
 4. Data Source - amazon_prime_titles.csv imported from Kaggle.com
 
 5. Features/Highlights
-• Business Problem
+   • Business Problem
 The Global OTT industry generates billions in revenues, yet many users are not able to decide which platform to choose, for best viewing experience.
 
-• Goal of dashboard is to provide a comprehensive, real-time visualization of key performance metrics and user insights for the Amazon Prime subscription service
+    • Goal of dashboard is to provide a comprehensive, real-time visualization of key performance metrics and user insights 
+    for the Amazon Prime subscription service
 
-• Business impact and insights 
-The dashboard consolidates critical metrics (e.g. churn rates, content consumption patterns) into a single, interactive interface. This enables stakeholders to make informed, data-driven decisions quickly, such as adjusting marketing strategies or prioritizing content investments.
-Analyzing content consumption patterns (e.g., most-watched shows, genres, or devices), the dashboard informs content acquisition and production decisions, ensuring investments align with member preferences.
-)
+    • Business impact and insights 
+    The dashboard consolidates critical metrics (e.g. churn rates, content consumption patterns) into a single, interactive 
+    interface. This enables stakeholders to make informed, data-driven decisions quickly, such as adjusting marketing 
+    strategies or prioritizing content investments.
+    Analyzing content consumption patterns (e.g., most-watched shows, genres, or devices), the dashboard informs content 
+    acquisition and production decisions, ensuring investments align with member preferences.
+
 6.[https://github.com/Almaas16/Amazon-Prime-Dashboard/blob/main/Amazon%20Prime%20Project.png](https://github.com/Almaas16/Amazon-Prime-Dashboard/blob/main/Amazon%20Prime%20Project.png)
    
   
